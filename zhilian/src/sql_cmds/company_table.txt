@@ -1,0 +1,28 @@
+CREATE TABLE IF NOT EXISTS `Company`(
+	`Company_ID` varchar(200) NOT NULL,
+
+	`comSize` varchar(100) NULL DEFAULT NULL,
+	`comName` varchar(200) NULL DEFAULT NULL,
+	`comType` varchar(100) NULL DEFAULT NULL,
+	`comTagZhiLian` varchar(500) NULL DEFAULT NULL,
+	`comAddr` varchar(200) NULL DEFAULT NULL,
+	`description` varchar(2000) NULL DEFAULT NULL,
+	`positionURL` varchar(200) NULL DEFAULT NULL,
+	`vipLevel` INT(10) NULL DEFAULT NULL,
+    `score` FLOAT(7,4) NULL DEFAULT NULL,
+
+    `resumeTotal` INT(10) NULL DEFAULT NULL,
+    `recruitTotal` INT(10) NULL DEFAULT NULL,
+    `interviewTotal` INT(10) NULL DEFAULT NULL,
+
+    `comTagManual` varchar(2000) NULL DEFAULT NULL,
+
+    `Source_Website` varchar(200) NULL DEFAULT NULL,
+    `Update_Name` varchar(100) NULL DEFAULT NULL,
+    `Update_Time` DATETIME NULL DEFAULT NULL,
+
+ 	 PRIMARY KEY(`Company_ID`)
+)
+COLLATE='utf8_general_ci'
+ENGINE=MyISAM
+;

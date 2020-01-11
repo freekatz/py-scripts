@@ -1,0 +1,4 @@
+1.0.19.4.15
+1. 增加属性 resumeReadPercent，修正 feedbackRation
+2. 彻底过滤培训机构
+3. 去除关键字

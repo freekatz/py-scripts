@@ -1,0 +1,8 @@
+APScheduler
+werkzeug
+Flask
+requests
+lxml
+pymongo
+pymysql
+BeautifulSoup4
