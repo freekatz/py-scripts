@@ -3,7 +3,7 @@
 '''
 @File    :   config.py
 @Desc    :
-@Project :   Swap-Infor
+@Project :   swap
 @Contact :   zjh98@vip.qq.com
 @License :   (C)Copyright 2018-2020, ZJH
 @WebSite :   zjh567.github.io
