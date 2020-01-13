@@ -4,9 +4,9 @@
 @File    :   MC.py
 @Desc    :   
 @Project :   swap
-@Contact :   thefreer@outlook.com
-@License :   (C)Copyright 2018-2019, TheFreer.NET
-@WebSite :   www.thefreer.net
+@Contact :   zjh98@vip.qq.com
+@License :   (C)Copyright 2018-2020, ZJH
+@WebSite :   zjh567.github.io
 @Modify Time           @Author        @Version
 ------------           -------        --------
 2020/01/12 23:55       ZJH            1.0
