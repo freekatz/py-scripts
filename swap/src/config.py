@@ -25,8 +25,8 @@ headers = {
 index_payload = {
 	"school": "", ## 学校名字，填写 school info 中的 学校名字，如 重庆大学，木虫网站直接把这些存到了一个 js 中（很可笑）
 	"r1[]": "", ## 学科选项一，填写 subject info 中的 s1id，如 08
-	"r2[]": "", ## 学科选项二，填写 subject info 中的 s2id，如 08
-	"r3[]": "", ## 学科选项三，填写 subject info 中的 s3id，如 08
+	"r2[]": "", ## 学科选项二，填写 subject info 中的 s2id，如 0812
+	"r3[]": "", ## 学科选项三，填写 subject info 中的 s3id，如 081201
 	"year": "2020", ## 年份， 默认不变就好
 	"type": "1", ## 类型，默认不变就好
 	# "page": "1" ## 页码
