@@ -14,7 +14,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from src.config import *
+from mc.src.config import *
 
 class MC(object):
 	def __init__(self, payload):

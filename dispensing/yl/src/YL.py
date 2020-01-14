@@ -14,7 +14,7 @@
 import requests
 import json
 
-from src.config import *
+from yl.src.config import *
 
 
 class YL(object):
