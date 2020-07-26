@@ -43,7 +43,7 @@ def download(url):
 
 if __name__ == '__main__':
     # 输入你要下载歌曲的ID，假如想下载一整个音乐列表，那么请自行修改代码，理论上歌曲无论免费还是VIP专享，只要能听的都可以下载
-    base_url = "分享Charlie Puth的单曲《How Long》:?http://music.163.com/song/509728806/?userid=410379629?(来自@网易云音乐)"
+    base_url = "http://music.163.com/song?id=1461398976"
 
     song_url = music_interface(base_url)
     print(song_url)
